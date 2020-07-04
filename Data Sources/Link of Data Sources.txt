@@ -1,0 +1,12 @@
+https://www.vicroads.vic.gov.au/safety-and-road-rules/safety-statistics/crash-statistics
+
+https://www.localgovernment.vic.gov.au/council-funding-and-grants/victoria-grants-commission/consultation-and-operations
+
+https://www.kaggle.com/gaurav896/victoria-state-accident-dataset?select=Crash+Statistics+Victoria.csv 
+
+https://beta.abs.gov.au/statistics
+
+https://www.camerassavelives.vic.gov.au/how-cameras-work/camera-test-certificates
+https://developers.google.com/maps/documentation/roads/speed-limits
+
+https://cloud.google.com/maps-platform/
