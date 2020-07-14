@@ -16,3 +16,11 @@
 
  Presentation pack of our analysis in link below:
 https://prezi.com/i/view/Bk0Ob4JRnXVbIvqjN0Gv
+ A pdf copy is also uploaded onto the site.
+ 
+ Jupyter Notebooks:
+ 1 x Merged Analysis codes are in notebook named "Merged Analysis Code - Victoria Road Crash"
+ 2 x Individual files containing cleaning codes used by Tas and Jamie on Demographic analysis and Speed Camera analysis respectively
+     - TAS? Please upload your final cleaning only file, not full file
+     - JAMIE TAN Speed Camera Cleaning Codes
+ 
