@@ -6,7 +6,8 @@ https://www.kaggle.com/gaurav896/victoria-state-accident-dataset?select=Crash+St
 
 https://beta.abs.gov.au/statistics
 
-https://www.camerassavelives.vic.gov.au/how-cameras-work/camera-test-certificates
-https://developers.google.com/maps/documentation/roads/speed-limits
+https://www.camerassavelives.vic.gov.au/
 
-https://cloud.google.com/maps-platform/
+https://www.speedcameralocations.com.au/
+
+https://www.matthewproctor.com/australian_postcodes
