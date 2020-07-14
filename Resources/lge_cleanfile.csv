@@ -1,5 +1,5 @@
 ﻿,Length of Roads  km,,,,Total Expenditure,,,,
-LGA_NAME_ALL,Local Roads - Sealed-length,Local Roads - Unsealed - Formed &  Sheeted-length,Local Roads - Unsealed - Natural Surface_length,Total_roadlength,Local Roads - Sealed-expenditure,Local Roads - Unsealed - Formed &  Sheeted-expenditure,Local Roads - Unsealed - Natural Surface-expenditure,Roads Ancillary-expenditure,Total-expenditure
+LGA_NAME,Local Roads - Sealed-length,Local Roads - Unsealed - Formed &  Sheeted-length,Local Roads - Unsealed - Natural Surface_length,Total_roadlength,Local Roads - Sealed-expenditure,Local Roads - Unsealed - Formed &  Sheeted-expenditure,Local Roads - Unsealed - Natural Surface-expenditure,Roads Ancillary-expenditure,Total-expenditure
 Alpine ,412,233,215,860,"3,748,129","265,116",0,0,"4,013,244"
 Ararat ,764,"1,420",240,"2,424","7,303,459","2,975,868","2,281","1,361,455","11,845,829"
 Ballarat ,"1,044",351,40,"1,435","41,874,084","3,196,942","363,289","1,045,194","46,775,611"
