@@ -13,3 +13,6 @@
  Does local government spending improve road conditions to prevent incidents?
  Does the overall demographics (age / average income / gender) of local government areas have an impact on the number of incidents?
  Do speed camera locations actually decrease crash numbers within a radius of 1km from the incidents v those outside 1 km of the speed camera?
+
+ Presentation pack of our analysis in link below:
+https://prezi.com/i/view/Bk0Ob4JRnXVbIvqjN0Gv
