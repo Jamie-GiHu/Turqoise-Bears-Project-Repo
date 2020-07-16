@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+Output/location_matrix.csv filter=lfs diff=lfs merge=lfs -text
+location_matrix.csv filter=lfs diff=lfs merge=lfs -text
