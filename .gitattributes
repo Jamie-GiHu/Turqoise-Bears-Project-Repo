@@ -1,8 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
 Output/location_matrix.csv filter=lfs diff=lfs merge=lfs -text
-Documents/Monash[[:space:]]Projects/01[[:space:]]Project/Victoria_Road_Crashes/Output/location_matrix.csv filter=lfs diff=lfs merge=lfs -text
- filter=lfs diff=lfs merge=lfs -text
 location_matrix.csv filter=lfs diff=lfs merge=lfs -text
 *location_matrix.csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
