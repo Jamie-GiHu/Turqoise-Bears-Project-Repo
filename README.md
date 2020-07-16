@@ -26,9 +26,6 @@ https://prezi.com/i/view/Bk0Ob4JRnXVbIvqjN0Gv
  
  JUPYTER NOTEBOOKS
  
- #Warning: Please run 'JAMIE TAN Speed Camera Cleaning Codes' first before running the Merged Analysis Jupyter Notebook. 
- (There is a file that is too big as an output and we are not able to upload the output file to the repository via GitHub.)
- 
  1 x Merged Analysis codes are in notebook named "Merged Analysis Code - Victoria Road Crash"
  
  2 x Individual files containing cleaning codes used by Tas and Jamie on Demographic analysis and Speed Camera analysis respectively
